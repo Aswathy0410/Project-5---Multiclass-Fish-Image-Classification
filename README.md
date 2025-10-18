@@ -92,14 +92,14 @@ F1-Score	~86%
 
 📁 fish-image-classification/
 │
-├── train_fish_classifier.py    # Model training and evaluation script
-├── app.py                      # Streamlit deployment script
-├── class_indices.json          # Class label mapping
-├── fish_classifier_model.h5    # Saved model
-├── confusion_matrix.png        # Confusion matrix visualization
-├── training_history.png        # Training history visualization
-├── requirements.txt            # Dependencies
-└── README.md                   # Documentation
+├── train_fish_classifier.py    
+├── app.py                     
+├── class_indices.json          
+├── fish_classifier_model.h5    
+├── confusion_matrix.png        
+├── training_history.png        
+├── requirements.txt            
+└── README.md                   
 
 
 👨‍💻 Author
